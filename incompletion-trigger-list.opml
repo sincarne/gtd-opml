@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>GTD Incompletion Trigger List</title>
+    <dateModified>Thu, 20 Dec 2012 22:11:04 +0000</dateModified>
+    <ownerName>awhite</ownerName>
+  </head>
+  <body>
+    <outline text="Professional" status="open" _status="indeterminate">
+      <outline text="Projects started, not completed" status="open" _status="indeterminate"/>
+      <outline text="Projects that need to be started" status="open" _status="indeterminate"/>
+      <outline text="Commitments/promises to others" status="open" _status="indeterminate">
+        <outline text="Boss/partners" status="open" _status="indeterminate"/>
+        <outline text="Colleagues" status="open" _status="indeterminate"/>
+        <outline text="Subordinates" status="open" _status="indeterminate"/>
+        <outline text="Other people in organization" status="open" _status="indeterminate"/>
+        <outline text="&quot;Outside&quot; people" status="open" _status="indeterminate">
+          <outline text="Customers" status="open" _status="indeterminate"/>
+          <outline text="Other organizations" status="open" _status="indeterminate"/>
+          <outline text="Professionals" status="open" _status="indeterminate"/>
+        </outline>
+      </outline>
+      <outline text="Communications to make/get" status="open" _status="indeterminate">
+        <outline text="Internal/External" status="open" _status="indeterminate">
+          <outline text="Initiate or respond to:" status="open" _status="indeterminate">
+            <outline text="Phone calls" status="open" _status="indeterminate"/>
+            <outline text="Voice-mail" status="open" _status="indeterminate"/>
+            <outline text="E-mail" status="open" _status="indeterminate"/>
+            <outline text="Pages" status="open" _status="indeterminate"/>
+            <outline text="Faxes" status="open" _status="indeterminate"/>
+            <outline text="Letters" status="open" _status="indeterminate"/>
+            <outline text="Memos" status="open" _status="indeterminate"/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Other writing to finish/submit" status="open" _status="indeterminate">
+        <outline text="Reports" status="open" _status="indeterminate"/>
+        <outline text="Evaluations/reviews" status="open" _status="indeterminate"/>
+        <outline text="Proposals" status="open" _status="indeterminate"/>
+        <outline text="Articles" status="open" _status="indeterminate"/>
+        <outline text="Promotional materials" status="open" _status="indeterminate"/>
+        <outline text="Manuals/instructions" status="open" _status="indeterminate"/>
+        <outline text="Rewrites and edits" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Meetings that need to be set/requested" status="open" _status="indeterminate"/>
+      <outline text="Who needs to know about what decisions?" status="open" _status="indeterminate"/>
+      <outline text="Significant read/review" status="open" _status="indeterminate"/>
+      <outline text="Financial" status="open" _status="indeterminate">
+        <outline text="Cash flow" status="open" _status="indeterminate"/>
+        <outline text="Statistics" status="open" _status="indeterminate"/>
+        <outline text="Budgets" status="open" _status="indeterminate"/>
+        <outline text="Forecasts/projections" status="open" _status="indeterminate"/>
+        <outline text="P&amp;Ls" status="open" _status="indeterminate"/>
+        <outline text="Balance sheet" status="open" _status="indeterminate"/>
+        <outline text="Credit line" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Planning/organizing" status="open" _status="indeterminate">
+        <outline text="Formal planning (goals, targets, objectives)" status="open" _status="indeterminate"/>
+        <outline text="Current projects (next stages)" status="open" _status="indeterminate"/>
+        <outline text="Upcoming projects" status="open" _status="indeterminate"/>
+        <outline text="Business/marketing plans" status="open" _status="indeterminate"/>
+        <outline text="Organizational initiatives" status="open" _status="indeterminate"/>
+        <outline text="Upcoming events" status="open" _status="indeterminate"/>
+        <outline text="Meetings" status="open" _status="indeterminate"/>
+        <outline text="Presentations" status="open" _status="indeterminate"/>
+        <outline text="Organizational structuring" status="open" _status="indeterminate"/>
+        <outline text="Changes in facilities" status="open" _status="indeterminate"/>
+        <outline text="Installation of new systems/equipment" status="open" _status="indeterminate"/>
+        <outline text="Travel" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Banks" status="open" _status="indeterminate">
+        <outline text="Receivables" status="open" _status="indeterminate"/>
+        <outline text="Payables" status="open" _status="indeterminate"/>
+        <outline text="Petty cash" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Administration" status="open" _status="indeterminate">
+        <outline text="Legal issues" status="open" _status="indeterminate"/>
+        <outline text="Insurance" status="open" _status="indeterminate"/>
+        <outline text="Personnel" status="open" _status="indeterminate"/>
+        <outline text="Policies/procedures" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Customers" status="open" _status="indeterminate">
+        <outline text="Internal" status="open" _status="indeterminate"/>
+        <outline text="External" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Marketing" status="open" _status="indeterminate"/>
+      <outline text="Promotion" status="open" _status="indeterminate"/>
+      <outline text="Sales" status="open" _status="indeterminate">
+        <outline text="Customer service" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Systems" status="open" _status="indeterminate">
+        <outline text="Phones" status="open" _status="indeterminate"/>
+        <outline text="Computers" status="open" _status="indeterminate"/>
+        <outline text="Office equipment" status="open" _status="indeterminate"/>
+        <outline text="Other equipment" status="open" _status="indeterminate"/>
+        <outline text="Utilities" status="open" _status="indeterminate"/>
+        <outline text="Filing" status="open" _status="indeterminate"/>
+        <outline text="Storage" status="open" _status="indeterminate">
+          <outline text="Inventories" status="open" _status="indeterminate"/>
+        </outline>
+      </outline>
+      <outline text="Supplies" status="open" _status="indeterminate"/>
+      <outline text="Office/site" status="open" _status="indeterminate">
+        <outline text="Office organization" status="open" _status="indeterminate"/>
+        <outline text="Furniture" status="open" _status="indeterminate"/>
+        <outline text="Decorations" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Waiting for..." status="open" _status="indeterminate">
+        <outline text="Information" status="open" _status="indeterminate"/>
+        <outline text="Delegated tasks/projects" status="open" _status="indeterminate"/>
+        <outline text="Completions critical to projects" status="open" _status="indeterminate"/>
+        <outline text="Replies to:" status="open" _status="indeterminate">
+          <outline text="Letters" status="open" _status="indeterminate"/>
+          <outline text="Memos" status="open" _status="indeterminate"/>
+          <outline text="Calls" status="open" _status="indeterminate"/>
+          <outline text="Proposals" status="open" _status="indeterminate"/>
+          <outline text="Requistions" status="open" _status="indeterminate"/>
+          <outline text="Reimbursements" status="open" _status="indeterminate"/>
+          <outline text="Petty cash" status="open" _status="indeterminate"/>
+          <outline text="Insurance" status="open" _status="indeterminate"/>
+          <outline text="Ordered items" status="open" _status="indeterminate"/>
+          <outline text="Items being repaired" status="open" _status="indeterminate"/>
+          <outline text="Tickets" status="open" _status="indeterminate"/>
+          <outline text="Decisions of others" status="open" _status="indeterminate"/>
+        </outline>
+      </outline>
+      <outline text="Professional development" status="open" _status="indeterminate">
+        <outline text="Training/seminars" status="open" _status="indeterminate"/>
+        <outline text="Things to learn" status="open" _status="indeterminate"/>
+        <outline text="Things to look up" status="open" _status="indeterminate"/>
+        <outline text="Skills to practice/learn especially re:computers" status="open" _status="indeterminate"/>
+        <outline text="Tape/video training" status="open" _status="indeterminate"/>
+        <outline text="Resumes" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Outside education" status="open" _status="indeterminate"/>
+      <outline text="Research--need to find out about..." status="open" _status="indeterminate"/>
+      <outline text="Professional wardrobe" status="open" _status="indeterminate"/>
+    </outline>
+    <outline text="Personal" status="open" _status="indeterminate">
+      <outline text="Projects started, not completed" status="open" _status="indeterminate"/>
+      <outline text="Projects that need to be started" status="open" _status="indeterminate"/>
+      <outline text="Commitments/promises to others" status="open" _status="indeterminate">
+        <outline text="Spouse" status="open" _status="indeterminate"/>
+        <outline text="Children" status="open" _status="indeterminate"/>
+        <outline text="Family" status="open" _status="indeterminate"/>
+        <outline text="Friends" status="open" _status="indeterminate"/>
+        <outline text="Professionals" status="open" _status="indeterminate"/>
+        <outline text="Borrowed items" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Projects: other organizations" status="open" _status="indeterminate">
+        <outline text="Service" status="open" _status="indeterminate"/>
+        <outline text="Civic" status="open" _status="indeterminate"/>
+        <outline text="Volunteer" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Communications to make/get" status="open" _status="indeterminate">
+        <outline text="Family" status="open" _status="indeterminate"/>
+        <outline text="Friends" status="open" _status="indeterminate"/>
+        <outline text="Professional" status="open" _status="indeterminate"/>
+        <outline text="Initiate or respond to:" status="open" _status="indeterminate">
+          <outline text="Phone calls" status="open" _status="indeterminate"/>
+          <outline text="Letters" status="open" _status="indeterminate"/>
+          <outline text="Cards" status="open" _status="indeterminate"/>
+        </outline>
+      </outline>
+      <outline text="Upcoming events" status="open" _status="indeterminate">
+        <outline text="Special occasions" status="open" _status="indeterminate"/>
+        <outline text="Birthdays" status="open" _status="indeterminate"/>
+        <outline text="Anniversaries" status="open" _status="indeterminate"/>
+        <outline text="Weddings" status="open" _status="indeterminate"/>
+        <outline text="Graduations" status="open" _status="indeterminate"/>
+        <outline text="Holidays" status="open" _status="indeterminate"/>
+        <outline text="Travel" status="open" _status="indeterminate"/>
+        <outline text="Weekend trips" status="open" _status="indeterminate"/>
+        <outline text="Vacations" status="open" _status="indeterminate"/>
+        <outline text="Social events" status="open" _status="indeterminate"/>
+        <outline text="Cultural events" status="open" _status="indeterminate"/>
+        <outline text="Sporting events" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="R&amp;D--things to do" status="open" _status="indeterminate">
+        <outline text="Places to go" status="open" _status="indeterminate"/>
+        <outline text="People to meet/invite" status="open" _status="indeterminate"/>
+        <outline text="Local attractions" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Administration" status="open" _status="indeterminate">
+        <outline text="Financial" status="open" _status="indeterminate">
+          <outline text="Bills" status="open" _status="indeterminate"/>
+          <outline text="Banks" status="open" _status="indeterminate"/>
+          <outline text="Investments" status="open" _status="indeterminate"/>
+          <outline text="Loans" status="open" _status="indeterminate"/>
+          <outline text="Taxes" status="open" _status="indeterminate"/>
+        </outline>
+        <outline text="Insurance" status="open" _status="indeterminate"/>
+        <outline text="Legal affairs" status="open" _status="indeterminate"/>
+        <outline text="Filing" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Waiting for..." status="open" _status="indeterminate">
+        <outline text="Mail order" status="open" _status="indeterminate"/>
+        <outline text="Repair" status="open" _status="indeterminate"/>
+        <outline text="Reimbursements" status="open" _status="indeterminate"/>
+        <outline text="Loaned items" status="open" _status="indeterminate"/>
+        <outline text="Medical data" status="open" _status="indeterminate"/>
+        <outline text="RSVPs" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Home/household" status="open" _status="indeterminate">
+        <outline text="Landlords" status="open" _status="indeterminate"/>
+        <outline text="Property ownership" status="open" _status="indeterminate">
+          <outline text="Legal" status="open" _status="indeterminate"/>
+          <outline text="Real estate" status="open" _status="indeterminate"/>
+          <outline text="Zoning" status="open" _status="indeterminate"/>
+          <outline text="Taxes" status="open" _status="indeterminate"/>
+          <outline text="Builders/contractors" status="open" _status="indeterminate"/>
+        </outline>
+        <outline text="Heating/air-conditioning" status="open" _status="indeterminate"/>
+        <outline text="Plumbing" status="open" _status="indeterminate"/>
+        <outline text="Electricity" status="open" _status="indeterminate"/>
+        <outline text="Roofing" status="open" _status="indeterminate"/>
+        <outline text="Landscape" status="open" _status="indeterminate"/>
+        <outline text="Driveway" status="open" _status="indeterminate"/>
+        <outline text="Walls/floors/ceilings" status="open" _status="indeterminate"/>
+        <outline text="Decoration" status="open" _status="indeterminate"/>
+        <outline text="Furniture" status="open" _status="indeterminate"/>
+        <outline text="Utilities" status="open" _status="indeterminate"/>
+        <outline text="Appliances" status="open" _status="indeterminate"/>
+        <outline text="Lightbulbs/wiring" status="open" _status="indeterminate"/>
+        <outline text="Kitchen things" status="open" _status="indeterminate"/>
+        <outline text="Washer/dryer/vacuum" status="open" _status="indeterminate"/>
+        <outline text="Areas to organize/clean" status="open" _status="indeterminate"/>
+        <outline text="TV" status="open" _status="indeterminate"/>
+        <outline text="VCR/DVD" status="open" _status="indeterminate"/>
+        <outline text="Music/CDs/tapes" status="open" _status="indeterminate"/>
+        <outline text="Cameras/film" status="open" _status="indeterminate"/>
+        <outline text="Phones" status="open" _status="indeterminate"/>
+        <outline text="Answering machine" status="open" _status="indeterminate"/>
+        <outline text="Sports equipment" status="open" _status="indeterminate"/>
+        <outline text="Closets/clothes" status="open" _status="indeterminate"/>
+        <outline text="Garage/storage" status="open" _status="indeterminate"/>
+        <outline text="Vehicle repair/maintenance" status="open" _status="indeterminate"/>
+        <outline text="Tools" status="open" _status="indeterminate"/>
+        <outline text="Luggage" status="open" _status="indeterminate"/>
+        <outline text="Pets" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Computers" status="open" _status="indeterminate">
+        <outline text="Software" status="open" _status="indeterminate"/>
+        <outline text="Hardware" status="open" _status="indeterminate"/>
+        <outline text="Connections" status="open" _status="indeterminate"/>
+        <outline text="CD-ROM" status="open" _status="indeterminate"/>
+        <outline text="E-mail/Internet" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Health care" status="open" _status="indeterminate">
+        <outline text="Doctors" status="open" _status="indeterminate"/>
+        <outline text="Dentists" status="open" _status="indeterminate"/>
+        <outline text="Specialists" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Hobbies" status="open" _status="indeterminate">
+        <outline text="Books/records/tapes/disks" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Errands" status="open" _status="indeterminate">
+        <outline text="Hardware store" status="open" _status="indeterminate"/>
+        <outline text="Drugstore" status="open" _status="indeterminate"/>
+        <outline text="Market" status="open" _status="indeterminate"/>
+        <outline text="Bank" status="open" _status="indeterminate"/>
+        <outline text="Cleaner" status="open" _status="indeterminate"/>
+        <outline text="Stationer" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Community" status="open" _status="indeterminate">
+        <outline text="Neighborhood" status="open" _status="indeterminate"/>
+        <outline text="Schools" status="open" _status="indeterminate"/>
+        <outline text="Local government" status="open" _status="indeterminate"/>
+      </outline>
+      <outline text="Civic issues" status="open" _status="indeterminate"/>
+    </outline>
+  </body>
+</opml>
